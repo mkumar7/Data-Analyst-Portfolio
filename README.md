@@ -29,6 +29,9 @@ about the data and report my conclusions and recommendations in a report. In thi
 datasets and investigate it using NumPy and pandas.I complete the entire data analysis process, starting by posing a question 
 and finishing by sharing the findings. 
 
+### Project 2:
+
+### Project 3:
 
 
 ## Part 2 -Practical Statistics 
@@ -98,8 +101,8 @@ Data visualization to a dataset involving the characteristics of diamonds and th
 In this project, I used Python’s data visualization tools to systematically explore the bike dataset for
 its properties and relationships between variables. Then, I created a presentation that communicates the findings to others.
 
+### Project 9:
 
-
-
+### Project 10:
 
 
