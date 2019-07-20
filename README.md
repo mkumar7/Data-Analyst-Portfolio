@@ -74,7 +74,7 @@ Subjects Covered:
    * Clean data using Python and pandas
    * Test cleaning code visually and programmatically using Python
    
-### Project 5 : CASE STUDY IN DATA WRANGLING.
+### Project 5 : Case Study in Data Wrangling.
 I divide this project in three parts such as Gathering Data, Assessing Data, Cleaning Data. Dataset which i used in 
 this project is really very messy. So first figure out what are the problem with dataset after that i found that the 
 dataset have three major problem. First it has missing value, second is its Untidy dataset and third is quality issues.
