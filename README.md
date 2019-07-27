@@ -86,7 +86,7 @@ Collect data from different sources and assess data visually and programmaticall
 insights later. 
 
 
-## Part 4 - Data Visualisation
+## Part 4 - Data Visualization
 
 Subjects Covered:
 * Univariate exploration of data ( histogram , bar charts , Use axis limits and different scales ) 
@@ -103,6 +103,20 @@ its properties and relationships between variables. Then, I created a presentati
 
 ### Project 9:
 
+
+## Part 5 - Data Visualization using Tableau 
+
+Subjects Covered:
+
 ### Project 10:
+
+
+## Part 6 - Data Analysis using Excel
+
+Subjects Covered:
+
+### Project 11:
+
+
 
 
