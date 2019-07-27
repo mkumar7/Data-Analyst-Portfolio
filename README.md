@@ -29,9 +29,9 @@ about the data and report my conclusions and recommendations in a report. In thi
 datasets and investigate it using NumPy and pandas.I complete the entire data analysis process, starting by posing a question 
 and finishing by sharing the findings. 
 
-### Project 2:
+### Project 2: Data Analysis with No-show Movie appointments
 
-### Project 3:
+### Project 3: Data Analysis with-ncis-and-census-data
 
 
 ## Part 2 -Practical Statistics 
@@ -97,14 +97,14 @@ Subjects Covered:
 ### Project 7: Data Visulization with Diamond Data 
 Data visualization to a dataset involving the characteristics of diamonds and their prices.
 
-### Project 8: Communicate data finding with Ford Go Bike Sharing Data
+### Project 8: Data Visualization with Communicate data finding with Ford Go Bike Sharing Data
 In this project, I used Python’s data visualization tools to systematically explore the bike dataset for
 its properties and relationships between variables. Then, I created a presentation that communicates the findings to others.
 
-### Project 9:
+### Project 9: Data Visualization with Prosper Loan data.
 
 
-## Part 5 - Data Visualization using Tableau 
+## Part 5 - Data Visualization using Tableau.
 
 Subjects Covered:
 
