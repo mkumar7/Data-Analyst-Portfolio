@@ -1,1 +1,5 @@
 
+Command to save image in Jupyter notebook.
+** plt.savefig('figname.png', dpi=300, bbox_inches='tight')
+To display fig in Jupyter notebook.
+** ![title](figname.png)
