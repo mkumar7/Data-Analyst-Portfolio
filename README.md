@@ -107,12 +107,16 @@ its properties and relationships between variables. Then, I created a presentati
 
 ## Part 5 - Data Visualization using Tableau.
 
+Certificate:
+
 Subjects Covered:
 
 ### Project 10:
 
 
 ## Part 6 - Data Analysis using Excel
+
+Certificate:
 
 Subjects Covered:
 
