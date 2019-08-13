@@ -114,13 +114,7 @@ Subjects Covered:
 ### Project 10:
 
 
-## Part 6 - Data Analysis using Excel
 
-Certificate:
-
-Subjects Covered:
-
-### Project 11:
 
 
 
