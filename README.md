@@ -105,13 +105,7 @@ its properties and relationships between variables. Then, I created a presentati
 ### Project 9: Data Visualization with Prosper Loan data.
 
 
-## Part 5 - Data Visualization using Tableau.
 
-Certificate:
-
-Subjects Covered:
-
-### Project 10:
 
 
 
